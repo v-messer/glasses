@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m-a",
+				"mx-auto\t(bootstrap.css)"
+			],
+			[
+				"shin",
+				"shine-me"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"var",
+				"var_dump($oneBlank\t(parseXls.php)"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"anima",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"animation-",
+				"animation-name\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"border-",
+				"border-width\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"space",
+				"space-around\tjustify-content"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"v",
+				"var_dump($oneBlank\t(parseXls.php)"
+			],
+			[
+				"ques",
+				"questions\t(questions.json)"
+			],
+			[
+				"flex",
+				"flex-start\tjustify-content"
+			],
+			[
+				"backr",
+				"background-color\tproperty"
+			],
+			[
+				"f",
+				"flex-start\tjustify-content"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"border-bott",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"index-cata",
+				"index-catalog-item"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"out",
+				"outline-color\tproperty"
+			],
+			[
+				"borde",
+				"border-width\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"bor",
+				"border-spacing\tproperty"
+			],
+			[
+				"tab",
+				"table-caption\tdisplay"
+			],
+			[
+				"list",
+				"list-style-image\tproperty"
+			],
+			[
+				"fonst",
+				"font-style\tproperty"
+			],
+			[
+				"lis",
+				"list-style-position\tproperty"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"plus",
+				"plusSizes"
+			],
+			[
+				"order",
+				"orderItem"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margon",
+				"margin-top\tproperty"
+			],
+			[
+				"blank",
+				"blanks"
+			],
+			[
+				"dump",
+				"var_dump"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-style\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"imagesDir"
+			],
+			[
+				"dirn",
+				"dirNum"
+			],
+			[
+				"bla",
+				"blankDirs"
+			],
+			[
+				"row",
+				"rowOffset"
+			],
+			[
+				"magrin",
+				"margin-left\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"my",
+				"myWriteShort"
+			],
+			[
+				"ml",
+				"multiply"
+			],
+			[
+				"ar",
+				"array_counter"
+			],
+			[
+				"a",
+				"array_counter"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"confl",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"confli",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jsv",
+				"JsValidate"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"emmet",
+				"Emmet: Merge Lines"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 99.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"git status",
+			"node index.js",
+			"node index",
+			"sddfs"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/glasses"
+	],
+	"file_history":
+	[
+		"/C/Program Files/ISC BIND 9/etc/master.localhost",
+		"/C/Program Files/ISC BIND 9/etc/root.servers",
+		"/C/Program Files/ISC BIND 9/etc/localhost.rev",
+		"/C/Program Files/ISC BIND 9/etc/windows.dr.pt.db",
+		"/C/Program Files/ISC BIND 9/etc/named.conf",
+		"/C/wamp64/www/genius/index.html",
+		"/C/wamp64/www/love/index.html",
+		"/C/wamp64/www/genius/css/heroic-features.css",
+		"/C/wamp64/www/genius/vendor/bootstrap/css/bootstrap.css",
+		"/C/wamp64/www/genius/test.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp64/www/genius/vendor/bootstrap/css/bootstrap-grid.min.css",
+		"/C/wamp64/www/genius/vendor/bootstrap/css/bootstrap.min.css",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget по доке/script.js",
+		"/C/Users/vmesser/Dropbox/amo-widget/amocrm_widget-master/i18n/ru.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/amocrm_widget-master/manifest.json",
+		"/C/Users/vmesser/Dropbox/Книга счастья.xlsx",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget по доке/manifest.json",
+		"/C/Users/vmesser/AppData/Local/Temp/Rar$DIa6892.22450/script.js",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget по доке/i18n/en.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget по доке/i18n/ru.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget/manifest.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget/script.js",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget/i18n/ru.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget2/manifest.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget2/script.js",
+		"/C/Users/vmesser/AppData/Local/Temp/Rar$DIa10384.37974/manifest.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/amocrm_widget-master/amocrm_widget-master/i18n/ru.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/amocrm_widget-master/amocrm_widget-master/manifest.json",
+		"/C/Users/vmesser/Dropbox/amo-widget/script.js",
+		"/C/Users/vmesser/Dropbox/amo-widget/amocrm_widget-master/amocrm_widget-master/templates/button.twig",
+		"/C/Users/vmesser/Dropbox/amo-widget/widget/i18n/en.json",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/css/basic.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/css/index.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/style.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/css/product.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/css/contacts.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/css/catalog.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/Yamaha-C40.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/catalog.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 08/musicnota/contacts.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 07/musicnota/style.css",
+		"/C/wamp64/www/glasses/getBlank.php",
+		"/C/wamp64/www/glasses/parseXls.php",
+		"/C/wamp64/www/glasses/index.php",
+		"/C/wamp64/www/ayurtest/functions.php",
+		"/C/wamp64/www/ayurtest/style.css",
+		"/C/wamp64/www/ayurtest/questions.json",
+		"/C/wamp64/www/ayurtest/index.php",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/PHP Completions Kit/README.md",
+		"/C/wamp64/www/glasses/admin.php",
+		"/C/wamp64/www/glasses/makeOrder.php",
+		"/C/wamp64/www/glasses/clsBlank.php",
+		"/C/Users/vmesser/Dropbox/Ayur-test/style.css",
+		"/C/Users/vmesser/Dropbox/Ayur-test/index.php",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 07/musicnota/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 07/musicnota/catalog.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 07/musicnota/contacts.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 07/musicnota/Yamaha-C40.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/test/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/test/test.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/test/style.css",
+		"/C/Users/vmesser/Dropbox/Ayur-test/questions.json",
+		"/C/pb/ayur bot/bot.py",
+		"/C/pb/ayur bot/myazin.d/case/109998637.t1.json",
+		"/C/pb/ayur bot/iptables.sh",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/musicnota/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/musicnota/style.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/teststyle.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/musicnota/catalog.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/musicnota/Yamaha-C40.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 06/test.html",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/voiceactivation/words.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/11.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/4.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/2.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/3.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/1.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/10.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/settings/default.json",
+		"/C/Users/vmesser/AppData/Local/Yandex/SearchBand/Application/4.0.0.1725/branding/about/config.json",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Web Inspector/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/vmesser/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 05/musicstore/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 05/musicstore/Yamaha-C40.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 05/musicstore/style.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 05/musicstore/catalog.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 05/musicstore/contacts.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/musicstore/catalog.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/musicstore/style.css",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/musicstore/Yamaha-C40.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/musicstore/contacts.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/musicstore/index.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/test2.html",
+		"/C/Users/vmesser/Dropbox/GeekBrains/GeekBrains_WebDevFaculty/Preparing/HTML-CSS/Lesson 04/test.html",
+		"/C/wamp64/www/glasses/vendor/phpoffice/phpspreadsheet/samples/Basic/25_In_memory_image.php",
+		"/C/wamp64/www/glasses/imageLoader.php",
+		"/C/wamp64/www/glasses/collectGlasses.php",
+		"/C/wamp64/www/glasses/newBlankDir.php",
+		"/C/wamp64/www/glasses/clsGlass.php",
+		"/C/wamp64/www/glasses/clsOrder.php",
+		"/C/wamp64/www/glasses/mailTest.php",
+		"/C/wamp64/www/glasses/test.php",
+		"/C/wamp64/www/glasses/blanks.json",
+		"/C/wamp64/www/glasses/blanks1.json",
+		"/C/wamp64/www/glasses/printBlank.php",
+		"/C/wamp64/www/glasses/composer.json",
+		"/C/wamp64/www/glasses/vendor/composer/installed.json",
+		"/C/wamp64/www/glasses/vendor/composer/autoload_real.php",
+		"/C/wamp64/www/glasses/blanks/blank001/blank001.html",
+		"/C/wamp64/www/glasses/blanksTojson.php",
+		"/C/wamp64/www/glasses/vendor/autoload.php",
+		"/C/wamp64/www/glasses/dbLinks.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "glasses.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\vmesser\\Dropbox\\GeekBrains\\nodejs\\nodejs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 39.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
